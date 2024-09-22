@@ -18,4 +18,22 @@ Routers in React:-
 npm i react-router-dom
 
 
-2:12
+Axios:-
+=> Install axios in frontend to make requests
+=> npm i axios
+
+cors:-
+=> It is used to connect frontend and backend which it runs in different port numbers
+=> for this 
+=> step1: install cors in backend "npm i cors"
+=> step2: in index.js "import cors from "cors""
+=> step3: app.use(cors())
+
+bcyptjs:-
+=> It is used to secure password donot show to any other
+
+For login signUp popUps :-
+=> in fronend install npm i react-hot-toast
+=> and then use toast accordingly
+
+4:9
